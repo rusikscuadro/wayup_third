@@ -1,0 +1,36 @@
+h1 {
+  color: red;
+  font-size: 50px;
+}
+
+.new {
+  background-color: blue;
+  color: white;
+  width: 100px;
+}
+
+.second span {
+  color: red;
+}
+
+.rectangle {
+  border: 6px solid black;
+}
+
+#block,
+.what {
+  background: green;
+  color: white;
+  font-size: 20px;
+  border: 6px solid green;
+}
+
+.what {
+  border: 16px solid green;
+}
+
+.list_1,
+.list_2,
+.list_3 {
+  border: 1px solid black;
+}
